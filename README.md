@@ -1,4 +1,4 @@
 - 👋 Hey, I’m @johnsuraj194
-- 👀 I am a Mechanical Engineer and an aspiring Data Scientist.
+- 👀 I am a Mechanical Engineer and an Budding Data Scientist.
 - 🌱 I wish to see myself as a data scientist in future.
 - 💞️ I’m trying to become an expert in data science field
